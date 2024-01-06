@@ -7,7 +7,9 @@ Summary:
 ===========
 PSEraser 🚀
 ===========
-🔍 Description:
+
+#🔍 Description:
+
 A powerful tool designed to efficiently manage running processes on your system. PSEraser allows you to close or stop all processes with matching strings provided by the user, ensuring a clean and secure environment.
 
 ==================
