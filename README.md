@@ -20,28 +20,21 @@ Clear screen: Enhance readability with the "cls" or "clear" command, clearing th
 open [process name]
 close [process name]
 cls
-
-
-#🛠️ How to Use:
-
+🛠️ How to Use:
 Open processes by specifying the process name after the "open" command.
 Close processes by providing the process name after the "close" command.
 Use "cls" or "clear" to erase the console screen.
-
 ===
 💡 Motive Behind PSEraser:
-
 PSEraser is a small-scale Information Security project focused on ensuring the proper termination and erasure of running processes. It provides a secure way to stop background processes by their name, promoting a controlled and secure computing environment. Whether for security reasons or system optimization, PSEraser offers a versatile solution.
 
 =>
 👨‍💻 Developer Information:
-
 Developed by Lazzy503
 GitHub Profile: @lazzy503-umer
 
 ===
 🚧 Note:
-
 This is open source; you can also use this tool!
 
 #Pray for the Developer :)
