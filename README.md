@@ -12,9 +12,9 @@ PSEraser 🚀
 
 A powerful tool designed to efficiently manage running processes on your system. PSEraser allows you to close or stop all processes with matching strings provided by the user, ensuring a clean and secure environment.
 
-==================
+=======
 🌐 Key Commands:
-==================
+=======
 
 Open processes by name: Use the "open [process name]" command to quickly launch a process based on its name.
 Close processes by name: Stop or close running processes with the "close [process name]" command.
