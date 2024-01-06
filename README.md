@@ -4,8 +4,9 @@ PSEraser
 Summary:
 🚀 Elevate your system management with this Python script! PSEraser is a versatile command-line tool designed for seamless process handling. Open programs effortlessly, close processes with a breeze, and search for executables with ease. The user-friendly interface features a clear terminal screen and interactive commands. PSEraser goes the extra mile by saving executed program paths. With platform compatibility, GitHub integration, and a customizable framework, it's not just a tool; it's a dynamic addition to your system toolkit! 🔧💻✨
 
-===================
+===========
 PSEraser 🚀
+===========
 🔍 Description:
 A powerful tool designed to efficiently manage running processes on your system. PSEraser allows you to close or stop all processes with matching strings provided by the user, ensuring a clean and secure environment.
 
