@@ -51,9 +51,10 @@ PSEraser is a small-scale Information Security project focused on ensuring the p
 
 =>
 👨‍💻 Developer Information:
-Developed by Lazzy503
-GitHub Profile: @lazzy503-umer
 ==
+Developed by Lazzy503
+GitHub Profile:@lazzy503-umer
+
 
 ===
 🚧 Note:
