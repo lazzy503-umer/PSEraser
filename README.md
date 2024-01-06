@@ -48,7 +48,10 @@ PSEraser offers a versatile solution.
 
 Developed by Lazzy503
 GitHub Profile: @lazzy503-umer
-🚧 Note: This is open source you can also use this too!
+===
+🚧 Note:
+===
+This is open source you can also use this too!
 ===
 #Pray for the Developer :)
 === 
