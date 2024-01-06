@@ -55,9 +55,9 @@ Developed by Lazzy503
 GitHub Profile: @lazzy503-umer
 ==
 
-===
+
 🚧 Note:
 This is open source; you can also use this tool!
-===
 
-#Pray for the Developer :)
+
+#>>> Pray for the Developer :)
