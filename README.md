@@ -42,7 +42,7 @@ erasure of running processes. It provides a secure way to stop background proces
 a controlled and secure computing environment. Whether for security reasons or system optimization, 
 PSEraser offers a versatile solution.
 
-==========================
+=>
 👨‍💻 Developer Information:
 ==========================
 Developed by Lazzy503
