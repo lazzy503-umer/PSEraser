@@ -33,9 +33,9 @@ Open processes by specifying the process name after the "open" command.
 Close processes by providing the process name after the "close" command.
 Use "cls" or "clear" to erase up the console screen.
 
-==========================
+===
 💡 Motive Behind PSEraser:
-==========================
+===
 
 PSEraser is a small-scale Information Security project focused on ensuring the proper termination and 
 erasure of running processes. It provides a secure way to stop background processes by their name, promoting 
