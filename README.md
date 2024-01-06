@@ -14,6 +14,8 @@ A powerful tool designed to efficiently manage running processes on your system.
 
 ==================
 🌐 Key Commands:
+==================
+
 Open processes by name: Use the "open [process name]" command to quickly launch a process based on its name.
 Close processes by name: Stop or close running processes with the "close [process name]" command.
 Clear screen: Enhance readability with the "cls" or "clear" command, clearing the console screen.
